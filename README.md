@@ -2,10 +2,15 @@
 👋 Hi there 👋
 
 🔭 I’m currently working on passing Uni!
+
 🌱 I’m currently learning python, cybersecurity and linux
+
 🤔 I’m looking for help with all of the above
+
 💬 Ask me about DnD or animals, Just dont expect a quick answer
+
 📫 How to reach me: Drop me a DM
+
 😄 Pronouns: He/Him
 
 <!--
